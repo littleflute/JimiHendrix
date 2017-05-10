@@ -1,4 +1,4 @@
-[v0.0.3](https://github.com/littleflute/JimiHendrix/edit/master/Rainbow%20bridge/readme.md)
+[v0.0.4](https://github.com/littleflute/JimiHendrix/edit/master/Rainbow%20bridge/readme.md)
 [show this page](https://littleflute.github.io/JimiHendrix/Rainbow%20bridge)
 
 [home](..)
