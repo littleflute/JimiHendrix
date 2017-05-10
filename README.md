@@ -1,7 +1,11 @@
-[v0.0.7](https://github.com/littleflute/JimiHendrix/edit/master/README.md)
+[v0.0.8](https://github.com/littleflute/JimiHendrix/edit/master/README.md)
+
 [show this page](https://littleflute.github.io/JimiHendrix/)
 
+[Power of soul-a tribute to Jimi Hendrix](Power of soul-a tribute to Jimi Hendrix)
+
 [Rainbow bridge/](Rainbow bridge/)
+
 [Smash hits](Smash hits)
 
 
