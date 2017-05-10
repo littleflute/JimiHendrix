@@ -1,4 +1,4 @@
-[v0.0.3](https://github.com/littleflute/JimiHendrix/edit/master/Power%20of%20soul-a%20tribute%20to%20Jimi%20Hendrix/readme.md)
+[v0.0.4](https://github.com/littleflute/JimiHendrix/edit/master/Power%20of%20soul-a%20tribute%20to%20Jimi%20Hendrix/readme.md)
 
 [show this page](https://littleflute.github.io/JimiHendrix/Power%20of%20soul-a%20tribute%20to%20Jimi%20Hendrix)
 
@@ -15,16 +15,11 @@ Your browser does not support the audio element.
 <script>
 var d = document.getElementById("xd"); 
 var html = d.innerHTML; 
+for(var n=1; n<=19; n++)
+{	
+ 	html += fNewBtn(n);
 
-html += fNewBtn(1);
-html += fNewBtn(2);
-html += fNewBtn(3);
-html += fNewBtn(4);
-html += fNewBtn(5);
-html += fNewBtn(6);
-html += fNewBtn(7);
-html += fNewBtn(8); 
- 
+} 
 d.innerHTML = html;
 
 var p = document.getElementById("player");
