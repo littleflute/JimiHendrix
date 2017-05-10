@@ -1,4 +1,4 @@
-[v0.0.3](https://github.com/littleflute/JimiHendrix/edit/master/Smash%20hits/readme.md)
+[v0.0.4](https://github.com/littleflute/JimiHendrix/edit/master/Smash%20hits/readme.md)
 [show this page](https://littleflute.github.io/JimiHendrix/Smash%20hits)
 
 [home](..)
