@@ -1,4 +1,4 @@
-[v0.0.2](https://github.com/littleflute/JimiHendrix/edit/master/Rainbow%20bridge/readme.md)
+[v0.0.3](https://github.com/littleflute/JimiHendrix/edit/master/Rainbow%20bridge/readme.md)
 [show this page](https://littleflute.github.io/JimiHendrix/Rainbow%20bridge)
 
 [home](..)
@@ -22,11 +22,7 @@ html += fNewBtn(4);
 html += fNewBtn(5);
 html += fNewBtn(6);
 html += fNewBtn(7);
-html += fNewBtn(8);
-html += fNewBtn(9);
-html += fNewBtn(10);
-html += fNewBtn(11);
-html += fNewBtn(12);
+html += fNewBtn(8); 
  
 d.innerHTML = html;
 
