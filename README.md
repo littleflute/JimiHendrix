@@ -1,4 +1,4 @@
-[v0.0.2](https://github.com/littleflute/JimiHendrix/edit/master/README.md)
+[v0.0.3](https://github.com/littleflute/JimiHendrix/edit/master/README.md)
 [show this page](https://littleflute.github.io/JimiHendrix/)
 
 <audio controls id="player"> 
