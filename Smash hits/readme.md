@@ -1,3 +1,8 @@
+[v0.0.2](https://github.com/littleflute/JimiHendrix/edit/master/Smash%20hits/readme.md)
+[show this page](https://littleflute.github.io/JimiHendrix/Smash%20hits)
+
+[home](..)
+
 
 
 <audio controls id="player"> 
@@ -17,6 +22,11 @@ html += fNewBtn(4);
 html += fNewBtn(5);
 html += fNewBtn(6);
 html += fNewBtn(7);
+html += fNewBtn(8);
+html += fNewBtn(9);
+html += fNewBtn(10);
+html += fNewBtn(11);
+html += fNewBtn(12);
  
 d.innerHTML = html;
 
