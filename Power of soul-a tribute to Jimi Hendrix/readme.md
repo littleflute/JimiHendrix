@@ -1,5 +1,6 @@
-[v0.0.2](https://github.com/littleflute/JimiHendrix/edit/master/Power of soul-a tribute to Jimi Hendrix/readme.md)
-[show this page](https://littleflute.github.io/JimiHendrix/Power of soul-a tribute to Jimi Hendrix)
+[v0.0.3](https://github.com/littleflute/JimiHendrix/edit/master/Power%20of%20soul-a%20tribute%20to%20Jimi%20Hendrix/readme.md)
+
+[show this page](https://littleflute.github.io/JimiHendrix/Power%20of%20soul-a%20tribute%20to%20Jimi%20Hendrix)
 
 [home](..)
 
