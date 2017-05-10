@@ -1,4 +1,4 @@
-[v0.0.3](https://github.com/littleflute/JimiHendrix/edit/master/README.md)
+[v0.0.4](https://github.com/littleflute/JimiHendrix/edit/master/README.md)
 [show this page](https://littleflute.github.io/JimiHendrix/)
 
 <audio controls id="player"> 
@@ -24,7 +24,7 @@ d.innerHTML = html;
 var p = document.getElementById("player");
 function f(i)
 {
-    var s = "https://littleflute.github.io/Rainbow bridge/cd/0";
+    var s = "https://littleflute.github.io/JimiHendrix/Rainbow bridge/cd/0";
     s += i;
     s += "_曲目 ";
     s += i;
