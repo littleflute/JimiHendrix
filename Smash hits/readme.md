@@ -1,4 +1,4 @@
-[v0.0.2](https://github.com/littleflute/JimiHendrix/edit/master/Smash%20hits/readme.md)
+[v0.0.3](https://github.com/littleflute/JimiHendrix/edit/master/Smash%20hits/readme.md)
 [show this page](https://littleflute.github.io/JimiHendrix/Smash%20hits)
 
 [home](..)
@@ -33,7 +33,15 @@ d.innerHTML = html;
 var p = document.getElementById("player");
 function f(i)
 {
-    var s = "https://littleflute.github.io/JimiHendrix/Smash hits/cd/0";
+    var s = "";
+    if(i<10) 
+    {
+    	s = "https://littleflute.github.io/JimiHendrix/Smash hits/cd/0";
+    }
+    else
+    {
+    	s = "https://littleflute.github.io/JimiHendrix/Smash hits/cd/";
+    }
     s += i;
     s += "_曲目 ";
     s += i;
