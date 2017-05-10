@@ -1,11 +1,11 @@
-[v0.0.5](https://github.com/littleflute/JimiHendrix/edit/master/README.md)
+[v0.0.6](https://github.com/littleflute/JimiHendrix/edit/master/README.md)
 [show this page](https://littleflute.github.io/JimiHendrix/)
 
 [Smash hits](Smash hits)
 
 
 <audio controls id="player"> 
-  <source src="https://littleflute.github.io/JimiHendrix/Rainbow bridge/cd/01_曲目 1.mp3" type="audio/mpeg">
+  <source src="https://littleflute.github.io/JimiHendrix/Power of soul-a tribute to Jimi Hendrix/cd/01_曲目 1.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 <div id="xd"> 
@@ -27,7 +27,7 @@ d.innerHTML = html;
 var p = document.getElementById("player");
 function f(i)
 {
-    var s = "https://littleflute.github.io/JimiHendrix/Rainbow bridge/cd/0";
+    var s = "https://littleflute.github.io/JimiHendrix/Power of soul-a tribute to Jimi Hendrix/cd/0";
     s += i;
     s += "_曲目 ";
     s += i;
