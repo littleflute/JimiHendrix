@@ -1,6 +1,7 @@
-[v0.0.6](https://github.com/littleflute/JimiHendrix/edit/master/README.md)
+[v0.0.7](https://github.com/littleflute/JimiHendrix/edit/master/README.md)
 [show this page](https://littleflute.github.io/JimiHendrix/)
 
+[Rainbow bridge/](Rainbow bridge/)
 [Smash hits](Smash hits)
 
 
