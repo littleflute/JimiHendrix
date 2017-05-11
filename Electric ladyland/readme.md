@@ -1,10 +1,10 @@
-[v0.0.5](https://github.com/littleflute/JimiHendrix/edit/master/Electric%20ladyland/readme.md)
+[v0.0.6](https://github.com/littleflute/JimiHendrix/edit/master/Electric%20ladyland/readme.md)
 
 [show this page](https://littleflute.github.io/JimiHendrix/Electric%20ladyland)
 
 [home](..)
 
-
+[dvd](dvd)
 
 <audio controls id="player"> 
   <source src="https://littleflute.github.io/JimiHendrix/Electric%20ladyland/cd/01_曲目 1.mp3" type="audio/mpeg">
