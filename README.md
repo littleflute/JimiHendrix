@@ -1,10 +1,12 @@
-[v0.0.8](https://github.com/littleflute/JimiHendrix/edit/master/README.md)
+[v0.0.9](https://github.com/littleflute/JimiHendrix/edit/master/README.md)
 
 [show this page](https://littleflute.github.io/JimiHendrix/)
 
+[Foxy lady [sound recording] tribute to Jimi Hendrix Lonnie Smith Trio](Foxy lady [sound recording] tribute to Jimi Hendrix Lonnie Smith Trio)
+
 [Power of soul-a tribute to Jimi Hendrix](Power of soul-a tribute to Jimi Hendrix)
 
-[Rainbow bridge/](Rainbow bridge/)
+[Rainbow bridge](Rainbow bridge/)
 
 [Smash hits](Smash hits)
 
