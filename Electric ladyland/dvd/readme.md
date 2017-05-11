@@ -1,5 +1,6 @@
-[v0.0.3](https://github.com/littleflute/JimiHendrix/edit/master/Electric%20ladyland/dvd/readme.md)
+[v0.0.4](https://github.com/littleflute/JimiHendrix/edit/master/Electric%20ladyland/dvd/readme.md)
 
+[show this page](https://littleflute.github.io/JimiHendrix/Electric%20ladyland/dvd/)
 
 
 <br> 
