@@ -1,13 +1,13 @@
-[v0.0.5](https://github.com/littleflute/JimiHendrix/edit/master/Power%20of%20soul-a%20tribute%20to%20Jimi%20Hendrix/readme.md)
+[v0.0.6](https://github.com/littleflute/JimiHendrix/edit/master/Foxy%20lady%20%5Bsound%20recording%5D%20%20tribute%20to%20Jimi%20Hendrix%20%20Lonnie%20Smith%20Trio/readme.md)
 
-[show this page](https://littleflute.github.io/JimiHendrix/Power%20of%20soul-a%20tribute%20to%20Jimi%20Hendrix)
+[show this page](https://littleflute.github.io/JimiHendrix/Foxy%20lady%20%5Bsound%20recording%5D%20%20tribute%20to%20Jimi%20Hendrix%20%20Lonnie%20Smith%20Trio)
 
 [home](..)
 
 
 
 <audio controls id="player"> 
-  <source src="https://littleflute.github.io/JimiHendrix/Power of soul-a tribute to Jimi Hendrix/cd/01_曲目 1.mp3" type="audio/mpeg">
+  <source src="https://littleflute.github.io/JimiHendrix/Foxy%20lady%20%5Bsound%20recording%5D%20%20tribute%20to%20Jimi%20Hendrix%20%20Lonnie%20Smith%20Trio/cd/01_曲目 1.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 <div id="xd"> 
@@ -15,7 +15,7 @@ Your browser does not support the audio element.
 <script>
 var d = document.getElementById("xd"); 
 var html = d.innerHTML; 
-for(var n=1; n<=19; n++)
+for(var n=1; n<=4; n++)
 {	
  	html += fNewBtn(n);
 
@@ -25,7 +25,7 @@ d.innerHTML = html;
 var p = document.getElementById("player");
 function f(i)
 {
-    var s = "https://littleflute.github.io/JimiHendrix/Power of soul-a tribute to Jimi Hendrix/cd/";
+    var s = "https://littleflute.github.io/JimiHendrix/Foxy%20lady%20%5Bsound%20recording%5D%20%20tribute%20to%20Jimi%20Hendrix%20%20Lonnie%20Smith%20Trio/cd/";
     if(i<10) 
     {
     	s += "0";
