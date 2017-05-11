@@ -1,6 +1,10 @@
-[v0.1.3](https://github.com/littleflute/JimiHendrix/edit/master/README.md)
+[v0.1.4](https://github.com/littleflute/JimiHendrix/edit/master/README.md)
 
 [show this page](https://littleflute.github.io/JimiHendrix/)
+
+[Are you experienced](Are you experienced)
+
+[Axis bold as love](Axis bold as love)
 
 [Band of gypsys](Band of gypsys/)
 
