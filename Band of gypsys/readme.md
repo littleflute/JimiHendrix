@@ -1,4 +1,4 @@
-[v0.0.5](https://github.com/littleflute/JimiHendrix/edit/master/Band of gypsys/readme.md)
+[v0.0.6](https://github.com/littleflute/JimiHendrix/edit/master/Band of gypsys/readme.md)
 
 [show this page](https://littleflute.github.io/JimiHendrix/Band of gypsys)
 
@@ -15,7 +15,7 @@ Your browser does not support the audio element.
 <script>
 var d = document.getElementById("xd"); 
 var html = d.innerHTML; 
-for(var n=1; n<=11; n++)
+for(var n=1; n<=6; n++)
 {	
  	html += fNewBtn(n);
 
