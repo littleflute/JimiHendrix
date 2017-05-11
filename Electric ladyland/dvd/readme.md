@@ -1,3 +1,4 @@
+[v0.0.2](https://github.com/littleflute/JimiHendrix/edit/master/Electric%20ladyland/dvd/readme.md)
 
 
 
