@@ -1,6 +1,8 @@
-[v0.0.9](https://github.com/littleflute/JimiHendrix/edit/master/README.md)
+[v0.1.0](https://github.com/littleflute/JimiHendrix/edit/master/README.md)
 
 [show this page](https://littleflute.github.io/JimiHendrix/)
+
+[Experience Hendrix](Experience Hendrix)
 
 [Foxy lady [sound recording] tribute to Jimi Hendrix Lonnie Smith Trio](Foxy lady [sound recording] tribute to Jimi Hendrix Lonnie Smith Trio)
 
